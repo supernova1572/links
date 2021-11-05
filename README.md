@@ -14,5 +14,12 @@
 ### DIY
 - [Masken](https://www.familie.de/diy/basteln/gipsmaske-selber-machen-step-by-step-anleitung-zum-masken-basteln/)
 - [Kreide](https://www.familie.de/diy/kreide-selber-machen-anleitung/)
+## kaufen
+### kinder
+- [Bienenzucht](https://www.timetex.de/zuchtset-wildbienen-kompakt-4-tlg)
+- [Bienenzucht ergänzung](https://www.timetex.de/paedagogischer-nistblock-mit-beobachtungsschublade-4-tlg)
+- [Regenwürmer](https://www.timetex.de/beobachtungs-set-regenwuermer-8-tlg?c=1893)
+
 ## Temp collect
 - [Wärmekapazität Wasser](https://www3.hhu.de/biodidaktik/Wasserhaushalt/dateien/3_transp/3_wasser/dateien/3_waerm.html)
+
