@@ -1,4 +1,13 @@
 # links edu 
+## calliope
+- [25 demos](https://calliope.cc/calliope-mini/25programme)
+- [open roberta gallery](https://lab.open-roberta.org/)
+- [youtube-open-roberta](https://www.youtube.com/watch?v=zQyjks3jaSA) Links within
+- [youtube-kopfrechentraine](https://www.youtube.com/results?search_query=calliope+programm+kopfrechentrainer)
+
+Currently the datatransfer of the hex programms is failing with us and os command with the notification that the MINI and FLASH volumes can not
+be thrown out/disconnected
+
 ## edu family
 - [experimenta](https://www.experimenta.science/besuchen/veranstaltungskalender/)
 - [HD haus der Astro](https://www.haus-der-astronomie.de/)
